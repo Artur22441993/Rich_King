@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
     ImageView v0, v1, v2, sp0, sp1;
     public final static String gigg  = "aHR0cHM6Ly9naXN0LmdpdGh1YnVzZXJjb250ZW50LmNvbS9BcnR1cjIyNDQxOTkzL2JlMTg2MzI0ZTljNjllYTg4ZTNkODhiMmIwYTQ3YjNkL3Jhdy9SaWNoJTI1MjBLaW5n";
-    public final static String oooo = "OTZhYzk3YmUtOGY1OS00YmM0LWI0NjAtYWVlOGIwNGJkMzA4";
+    public final static String oooo = "MzFmODlmYzYtMjI1Ny00ZDkzLTkzOTItYTU3MTcyNDE4YzUw";
     public final static String oreo = "eXdadkI0a1ZYY0pLZDJkQ3RERVB0ZA==";
 
     @Override
